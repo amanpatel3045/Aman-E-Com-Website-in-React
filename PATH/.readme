@@ -1,1 +1,5 @@
+## Only Path is working because isme keval path k liye code likha hai in App.js and Different-Different Pages like Home,About,Product,Single Product
 
+## means is code ko run krne pe web page k url me 3000 (any port number) ke baad / krke Home about etc likhne pe wo particular page khul jayega.
+
+###<Route path="./" element={<Component Name/>}/>
