@@ -16,6 +16,7 @@ const Header = () => {
 };
 
 const MainHeader = styled.header`
+
   padding: 0 4.8rem;
   height: 10rem;
   background-color: ${({ theme }) => theme.colors.bg};
